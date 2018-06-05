@@ -6,7 +6,7 @@ Support any number<br/>
 Support decimal number
 
 # Install
-Step 1: Download this library file form [a Link](https://github.com/evan06alam/Currency-Number-To-Word-Converter/archive/master.zip)<br/>
+Step 1: Download this library file form [Link](https://github.com/evan06alam/Currency-Number-To-Word-Converter/archive/master.zip)<br/>
 Step 2: Extract from Zip Folder.<br/>
 Step 3: Copy lib folder and paste it into your project directory<br/>
 
@@ -30,7 +30,7 @@ new NumberToWord($mynumber, $currencyName, $decimalName);
 All bugs, feature requests, pull requests, feedback, etc., are welcome. E-mail me at evanpab@gmail.com
 
 # Credits
-Copyright (c) 2018 - Programmed by Evan Alam. [a Facebook](https://www.facebook.com/evan06alam)
+Copyright (c) 2018 - Programmed by Evan Alam. [Facebook](https://www.facebook.com/evan06alam)
 
 # License
-Released under the MIT License. See [a LICENSE file](https://github.com/evan06alam/Currency-Number-To-Word-Converter/blob/master/LICENSE).
+Released under the MIT License. See [LICENSE file](https://github.com/evan06alam/Currency-Number-To-Word-Converter/blob/master/LICENSE).
