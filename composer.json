@@ -1,0 +1,28 @@
+{
+    "name": "evan06alam/CurrencyNumberToWordConverter",
+    "description": "A very simple yet useful helper class for PHP Currency Number to Word Converter",
+	"type" : "package",
+	"keywords" : ["Money Converter", "Number to Word Converter", "PHP invoice number to word converter", "invoice"],
+    "require": {
+        "php": ">=5.1",
+    },
+	
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evan Alam",
+            "designation": "Project Manager & Lead Developer",
+            "email": "evanpab@gmail.com"
+        },
+		
+		
+    ],
+	
+	"autoload": {
+        "psr-0": {
+            "CurrencyNumberToWordConverter": "lib/"
+        }
+    },
+	
+    "minimum-stability": "dev"
+}
