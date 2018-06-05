@@ -2,7 +2,7 @@
 A very simple yet useful helper class for PHP Currency Number to Word Converter
 
 # Features
-Support any number
+Support any number<br/>
 Support decimal number
 
 # Install
